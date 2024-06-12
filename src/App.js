@@ -7,7 +7,7 @@ import { Mynavbar } from './component/Mynavbar/Mynavbar';
 import { Products } from './component/Products/Products';
 function App() {
 
-
+console.log('ahmed');
   
   return (
     <div 
