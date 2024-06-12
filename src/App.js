@@ -6,6 +6,9 @@ import { Navbar } from './component/NavBar/Navbar';
 import { Mynavbar } from './component/Mynavbar/Mynavbar';
 import { Products } from './component/Products/Products';
 function App() {
+
+
+  console.log('hasdfkjh');
   return (
     <div 
     className="App">
